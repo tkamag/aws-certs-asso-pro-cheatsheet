@@ -1,13 +1,13 @@
 ---
 layout: article
-title: "What is Amazon Redshift?"
-date: 2023-01-26
-modify_date: 2023-01-26
-excerpt: "Is Amazon Redshift only a data warehouse product?"
-tags: [AWS, Redshift]
+title: "AWS Certified Solutions Architect - Professional"
+date: 2023-02-03
+modify_date: 2023-02-03
+excerpt: "AWS Certified Solutions Architect - Professional"
+tags: [AWS, Certification, Solutions Architect, Professional]
 mathjax: false
 mathjax_autoNumber: false
-key: aws-redshift-tips
+key: aws-associate-pro-tips
 ---
 
 ***
